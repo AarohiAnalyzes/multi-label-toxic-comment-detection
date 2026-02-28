@@ -1,4 +1,4 @@
-# 🧠 Multi-Label Toxic Comment Detection  
+# Multi-Label Toxic Comment Detection  
 ## Transformer-Based Classification & Semantic Clustering
 
 ---
